@@ -1,4 +1,4 @@
-from hacker_hangouts import app
+from best_study_spots import app
 from flask.ext.sqlalchemy import SQLAlchemy
 
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/test.db'

@@ -1,4 +1,4 @@
-from hacker_hangouts import app
+from best_study_spots import app
 from flask import render_template
 
 @app.route('/')

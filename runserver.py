@@ -1,3 +1,3 @@
-from hacker_hangouts import app
+from best_study_spots import app
 app.run(debug=True)
 
